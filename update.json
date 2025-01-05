@@ -1,1 +1,4 @@
-
+{
+  "latest": "0.0.3",
+  "updateurl": "https://raw.githubusercontent.com/Pugovka/evolvelogs/main/libs/EvolveLogs.luac"
+}
