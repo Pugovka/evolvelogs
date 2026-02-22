@@ -5,7 +5,6 @@
       "version": "1.0.0",
       "current": true,
       "changes": [
-        "— Релиз версии 1.0.0",
         "— Модульная структура: config, api, ui, settings, rank, utils, libs_loader",
         "— Changelog загружается из JSON на GitHub (/updlist)",
         "— Автообновление основного скрипта, модулей и rank_info.json",
