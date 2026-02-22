@@ -1,14 +1,16 @@
 {
   "latest": "0.0.9",
-  "updateurl": "https://raw.githubusercontent.com/Pugovka/evolvelogs/main/EvolveLogs.lua",
+  "updateurl": "https://raw.githubusercontent.com/Pugovka/evolvelogs/main/Elogs.lua",
   "modules": [
+    { "path": "EvolveLogs/rank_info.json", "url": "https://raw.githubusercontent.com/Pugovka/evolvelogs/main/EvolveLogs/rank_info.json" },
     { "path": "EvolveLogs/modules/config.lua", "url": "https://raw.githubusercontent.com/Pugovka/evolvelogs/main/EvolveLogs/modules/config.lua" },
-    { "path": "EvolveLogs/modules/api.lua", "url": "https://raw.githubusercontent.com/..." },
-    { "path": "EvolveLogs/modules/ui.lua", "url": "..." },
-    { "path": "EvolveLogs/modules/settings.lua", "url": "..." },
-    { "path": "EvolveLogs/modules/rank.lua", "url": "..." },
-    { "path": "EvolveLogs/modules/utils.lua", "url": "..." },
-    { "path": "EvolveLogs/modules/libs_loader.lua", "url": "..." },
-    { "path": "EvolveLogs/lib/updater.lua", "url": "..." }
+    { "path": "EvolveLogs/modules/api.lua", "url": "https://raw.githubusercontent.com/Pugovka/evolvelogs/main/EvolveLogs/modules/api.lua" },
+    { "path": "EvolveLogs/modules/ui.lua", "url": "https://raw.githubusercontent.com/Pugovka/evolvelogs/main/EvolveLogs/modules/ui.lua" },
+    { "path": "EvolveLogs/modules/settings.lua", "url": "https://raw.githubusercontent.com/Pugovka/evolvelogs/main/EvolveLogs/modules/settings.lua" },
+    { "path": "EvolveLogs/modules/rank.lua", "url": "https://raw.githubusercontent.com/Pugovka/evolvelogs/main/EvolveLogs/modules/rank.lua" },
+    { "path": "EvolveLogs/modules/utils.lua", "url": "https://raw.githubusercontent.com/Pugovka/evolvelogs/main/EvolveLogs/modules/utils.lua" },
+    { "path": "EvolveLogs/modules/libs_loader.lua", "url": "https://raw.githubusercontent.com/Pugovka/evolvelogs/main/EvolveLogs/modules/libs_loader.lua" },
+    { "path": "EvolveLogs/lib/updater.lua", "url": "https://raw.githubusercontent.com/Pugovka/evolvelogs/main/EvolveLogs/lib/updater.lua" },
+    { "path": "EvolveLogs/lib/sentry_reporter.lua", "url": "https://raw.githubusercontent.com/Pugovka/evolvelogs/main/EvolveLogs/lib/sentry_reporter.lua" }
   ]
 }
