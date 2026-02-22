@@ -1,6 +1,6 @@
 {
   "latest": "0.0.9",
-  "updateurl": "https://raw.githubusercontent.com/Pugovka/evolvelogs/main/Elogs.lua",
+  "updateurl": "https://raw.githubusercontent.com/Pugovka/evolvelogs/main/EvolveLogs.lua",
   "modules": [
     { "path": "EvolveLogs/modules/config.lua", "url": "https://raw.githubusercontent.com/Pugovka/evolvelogs/main/EvolveLogs/modules/config.lua" },
     { "path": "EvolveLogs/modules/api.lua", "url": "https://raw.githubusercontent.com/..." },
