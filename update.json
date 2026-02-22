@@ -1,4 +1,14 @@
 {
   "latest": "0.0.9",
-  "updateurl": "https://raw.githubusercontent.com/Pugovka/evolvelogs/main/EvolveLogs.luac"
+  "updateurl": "https://raw.githubusercontent.com/Pugovka/evolvelogs/main/Elogs.lua",
+  "modules": [
+    { "path": "EvolveLogs/modules/config.lua", "url": "https://raw.githubusercontent.com/Pugovka/evolvelogs/main/EvolveLogs/modules/config.lua" },
+    { "path": "EvolveLogs/modules/api.lua", "url": "https://raw.githubusercontent.com/..." },
+    { "path": "EvolveLogs/modules/ui.lua", "url": "..." },
+    { "path": "EvolveLogs/modules/settings.lua", "url": "..." },
+    { "path": "EvolveLogs/modules/rank.lua", "url": "..." },
+    { "path": "EvolveLogs/modules/utils.lua", "url": "..." },
+    { "path": "EvolveLogs/modules/libs_loader.lua", "url": "..." },
+    { "path": "EvolveLogs/lib/updater.lua", "url": "..." }
+  ]
 }
