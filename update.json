@@ -1,8 +1,8 @@
 {
-  "latest": "0.0.9",
+  "latest": "1.0.0",
   "updateurl": "https://raw.githubusercontent.com/Pugovka/evolvelogs/main/EvolveLogs.lua",
   "modules": [
-    { "path": "EvolveLogs/rank_info.json", "url": "https://raw.githubusercontent.com/Pugovka/evolvelogs/main/EvolveLogs/rank_info.json" },
+    { "path": "EvolveLogs/Configs/rank_info.json", "url": "https://raw.githubusercontent.com/Pugovka/evolvelogs/main/EvolveLogs/Configs/rank_info.json" },
     { "path": "EvolveLogs/modules/config.lua", "url": "https://raw.githubusercontent.com/Pugovka/evolvelogs/main/EvolveLogs/modules/config.lua" },
     { "path": "EvolveLogs/modules/api.lua", "url": "https://raw.githubusercontent.com/Pugovka/evolvelogs/main/EvolveLogs/modules/api.lua" },
     { "path": "EvolveLogs/modules/ui.lua", "url": "https://raw.githubusercontent.com/Pugovka/evolvelogs/main/EvolveLogs/modules/ui.lua" },
